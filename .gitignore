@@ -1,3 +1,6 @@
 GB_category_id.json
 GB_youtube_trending_data.csv
 test.csv
+regressor.pkl
+model.pkl
+rf_df.pkl
